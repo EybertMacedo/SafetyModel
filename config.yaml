@@ -1,0 +1,8 @@
+path : /home/alexis/JetBrains/PycharmProjects/safetyProject/custom_model_data
+train : images
+val : images
+names:
+  0 : trabajador
+  1 : trabajador_autorizado
+  2 : camino no permitido
+  3 : Intervencion no autorizada
