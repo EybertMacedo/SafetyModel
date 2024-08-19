@@ -8,7 +8,7 @@ El objetivo es mejorar la seguridad en el lugar de trabajo mediante la detecció
 
 El proyecto implementa un sistema de detección que identifica personas que ingresan en zonas peligrosas definidas en un área de trabajo. Utilizando el modelo YOLO entrenado con datos personalizados, el sistema realiza la detección en tiempo real y genera alertas visuales cuando se detecta una violación de seguridad.
 
-![image](screenshots/Screenshot from result_0_te1.png)
+![image](https://github.com/user-attachments/assets/2bab8982-5c7c-458b-9d3d-e0b46c2e572d)
 
 ### Principales Características
 
